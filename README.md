@@ -14,3 +14,11 @@ this project is build as part of lerning linux internals and debugging
     .fork() basics
     .exec() system call
     .how a process gets replaced
+
+##Day4
+
+-learned breakpoints
+-used next and step
+-printed variables
+-observed program crash
+
