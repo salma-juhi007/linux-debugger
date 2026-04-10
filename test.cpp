@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int a=10;
+	int b=0;
+	int c=a/b;
+
+	cout<<"Result: "<<c<<endl;
+
+	return 0;
+}
+
